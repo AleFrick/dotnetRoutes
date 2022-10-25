@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sb9mrGwwQmQA7NXSHVyl/Q71JYLg8x0Yb5FFj7PLikI=",
+  "Source": "dotnetRoutes",
+  "BasePath": "_content/dotnetRoutes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
